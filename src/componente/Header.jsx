@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>Willkommen bei der Rezepte-App</h1>
       <nav>
-        <ul>
+        <ul className=''>
           <Link to="/">Home</Link>
         </ul>
       </nav>

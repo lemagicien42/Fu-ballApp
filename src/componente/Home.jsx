@@ -26,6 +26,7 @@ function Home() {
 
   return (
     <div className="home">
+        
       <SearchBar onSearch={handleSearch} />
       <div className="categories">
         <h3>Kategorien</h3>
