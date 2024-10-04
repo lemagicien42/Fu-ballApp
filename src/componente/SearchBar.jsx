@@ -22,7 +22,7 @@ function SearchBar({ onSearch }) {
         type="text" 
         value={searchTerm} 
         onChange={handleChange}
-        placeholder="Rezept suchen"
+        placeholder="Rezept Suchen"
       />
       
     </form>
